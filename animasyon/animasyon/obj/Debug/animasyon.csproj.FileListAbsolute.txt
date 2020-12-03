@@ -1,0 +1,9 @@
+C:\Users\CEREN KIRLI\source\repos\animasyon\animasyon\bin\Debug\animasyon.exe.config
+C:\Users\CEREN KIRLI\source\repos\animasyon\animasyon\bin\Debug\animasyon.exe
+C:\Users\CEREN KIRLI\source\repos\animasyon\animasyon\bin\Debug\animasyon.pdb
+C:\Users\CEREN KIRLI\source\repos\animasyon\animasyon\obj\Debug\animasyon.Form1.resources
+C:\Users\CEREN KIRLI\source\repos\animasyon\animasyon\obj\Debug\animasyon.Properties.Resources.resources
+C:\Users\CEREN KIRLI\source\repos\animasyon\animasyon\obj\Debug\animasyon.csproj.GenerateResource.cache
+C:\Users\CEREN KIRLI\source\repos\animasyon\animasyon\obj\Debug\animasyon.exe
+C:\Users\CEREN KIRLI\source\repos\animasyon\animasyon\obj\Debug\animasyon.pdb
+C:\Users\CEREN KIRLI\source\repos\animasyon\animasyon\obj\Debug\animasyon.csprojAssemblyReference.cache
