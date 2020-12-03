@@ -1,0 +1,9 @@
+KOSDb.sql nasıl yüklenir?
+
+1- Mssql e KOSDb isminde veritabanı oluşturun.(Varsa tüm tabloları silin)
+
+2- KOSSDb veritabanı seçiliyken new query deyin. KOSDb.sql dosyasını new query ekranına sürükleyip bırakın.
+
+3- Daha sonra execute diyerek query çalıştırın.
+
+İyi çalışmalar...
